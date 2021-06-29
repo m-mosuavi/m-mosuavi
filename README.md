@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @m-mosuavi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on OpenSource Projects
+- 📫 How to reach me mousavi.dev
 
-<!---
-m-mosuavi/m-mosuavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
